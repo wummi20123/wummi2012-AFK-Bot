@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wummi2012-MC.aternos.me",
+    "ip": "wummi2012-MC.aternos.me:64803",
     "port": 64803,
     "version": "",
     "try-creative": false
